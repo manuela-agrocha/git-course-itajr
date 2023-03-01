@@ -6,4 +6,6 @@ Saiba mais na Udemy, reveja as aulas quantas vezes quiser.
 
 Aprendendo a como usar o diff.
 
-Enviando mudan~ças para um repositório remoto.
+Enviando alterações para um repositório remoto.
+
+Adicionando mais algumas linhas... 
